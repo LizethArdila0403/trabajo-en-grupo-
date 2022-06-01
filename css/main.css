@@ -718,7 +718,7 @@ width: 40px;
   }
 
 .main .contacto .contenedor-formulario .formulario form input[type="text"], .main .contacto .contenedor-formulario .formulario form input[type="email"], .main .contacto .contenedorformulario .formulario form textarea{
-  text-align: center;
+  text-align: left;
   }
 
 @media screen and (max-width:550px){
